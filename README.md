@@ -13,8 +13,8 @@ SSB liga konfig pre N1MM contest logger
 - po predchadzjucich operaciach treba N1MM logger zavriet
 - po opatovnom otvoreni N1MM loggera zvolte "New log in database xxx"
 - nasledne vyberte z "Log Type" polozku "SSBLIGA"
-- nastvte si parametre podla potreby, hlavne "Send Exchange" a parametre operatora
-- kliknite na "Import section list" - malo by sa ozvat hlasenie o uspesnom importe z SSBLIGA.sec
+- nastavte si parametre podla potreby, hlavne "Send Exchange" a parametre operatora
+- kliknite na "Import section list" - malo by sa ozvat hlasenie o uspesnom importe z SSBLIGA.sec - to su okresne znaky OK a OM
 
 V tejto chvili je vas log pripraveny na SSB ligu - s kontrolou spravne vyplnenych okresnych znakov
 
