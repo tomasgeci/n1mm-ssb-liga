@@ -22,4 +22,6 @@ V pripade otazok mi nevahajte napisat na om5ast(at)omradio.sk
 
 ### Ak sa nekamaratite s Github alebo s GIT zalezitostami, nevahajte pouzit zelene tlacidlo vpravo hore "Clone and download" a ako volbu pouzite "download as ZIP". Vsetky subory butete mat v ZIP archive a postaci ich rozbalit  beznym sposobom.
 
+Ako inspiracia posluzili konfigy od OK1NE a OK1PCB, za co im touto cestou dakujem.
+
 73 ES GL
