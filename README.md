@@ -18,11 +18,11 @@ SSB liga konfig pre N1MM contest logger
 ```diff
 - Prosim nezabudnite kliknut na "Import section list", inak vam nebude fungovat kontrola okresnych znakov
 ```
-V tejto chvili je vas log pripraveny na SSB ligu - s kontrolou spravne vyplnenych okresnych znakov
+V tejto chvili je vas log pripraveny na SSB ligu - s kontrolou spravne vyplnenych okresnych znakov OK a OM
 
 V pripade otazok mi nevahajte napisat na om5ast(at)omradio.sk
 
-### Ak sa nekamaratite s Github alebo s GIT zalezitostami, nevahajte pouzit zelene tlacidlo vpravo hore "Clone and download" a ako volbu pouzite "Download ZIP". Vsetky subory butete mat v ZIP archive a postaci ich rozbalit  beznym sposobom.
+### Ak sa nekamaratite s GitHub alebo s GIT zalezitostami, nevahajte pouzit zelene tlacidlo vpravo hore "Clone and download" a ako volbu pouzite "Download ZIP". Vsetky subory butete mat v ZIP archive a postaci ich rozbalit  beznym sposobom.
 
 Ako inspiracia posluzili konfigy od OK1NE a OK1PCB, za co im touto cestou dakujem.
 
