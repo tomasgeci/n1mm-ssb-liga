@@ -15,8 +15,8 @@ SSB liga konfig pre N1MM contest logger
 - nasledne vyberte z "Log Type" polozku **"SSBLIGA"**
 - nastavte si parametre podla potreby, hlavne "Send Exchange" a parametre operatora
 - kliknite na **"Import section list"** - malo by sa ozvat hlasenie o uspesnom importe z SSBLIGA.sec - to su okresne znaky OK a OM
-```html
-<span style="color:red">Prosim nezabudnite kliknut na "Import section list", inak nebude vam fungovat kontrola okresnych znakov</span>
+```diff
++ Prosim nezabudnite kliknut na "Import section list", inak nebude vam fungovat kontrola okresnych znakov</span>
 ```
 V tejto chvili je vas log pripraveny na SSB ligu - s kontrolou spravne vyplnenych okresnych znakov
 
