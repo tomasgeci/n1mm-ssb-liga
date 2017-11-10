@@ -3,8 +3,8 @@ AuthorName=Tomas Geci
 Callsign=OM5AST
 Email=om5ast@omradio.sk
 [File]
-Revision =1.0.0
-LastUpdate =10. 10. 2017
+Revision =1.0.1
+LastUpdate =10. 11. 2017
 Description =OM/OK SSB liga
 [Contest]
 Name =SSBLIGA
@@ -50,10 +50,10 @@ SetSentTimeForContact =
 ScoreSummaryMultNames =dis
 WebAddress =http://ssbliga.nagano.cz
 DigitalModeSqlString =
-MultipleSessions =0700/0200
+MultipleSessions =
 MultsEverySession=
 MultiplierBands/=1
-ResetMultsEverySession=1
+ResetMultsEverySession=0
 DupeSqslString=1
 Multsqslstring=
 Speciallnstructions=
