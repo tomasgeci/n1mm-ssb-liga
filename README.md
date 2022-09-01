@@ -4,7 +4,7 @@ SSB liga konfig pre N1MM contest logger
 ## navod na instalaciu
 
 - stiahnut subor **"SSBLIGA.UDC"**
-- tento subor ulozit do priecinka, kde sa nachadzaju uzivatelske nastavenia N1MM loggera, konkretne do priecinka **"UserDefinedContests"**
+- tento subor ulozit do priecinka, kde sa nachadzaju uzivatelske nastavenia N1MM loggera, konkretne do priecinka **"UserDefinedContests"**, zvycajne niekde v adresari `C:\users\vase_uzivatelske_meno`, pripade v adresari `Dokumenty`
 - stiahnut subor **"SSBLIGA.sec"**
 - tento subor ulozit do priecinka, kde sa nachadzaju uzivatelske nastavenia N1MM loggera, konkretne do priecinka **"SupportFiles"**
 
