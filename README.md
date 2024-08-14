@@ -12,7 +12,7 @@ SSB liga konfig pre N1MM contest logger
 
 ## navod na vytvorenie kontestoveho logu pre SSB ligu
 
-- po predchadzjucich operaciach treba N1MM logger zavriet
+- po predchadzajucich operaciach treba N1MM logger zavriet
 - po opatovnom otvoreni N1MM loggera zvolte **"New log in database xxx"**
 - nasledne vyberte z "Log Type" polozku **"SSBLIGA"**
 - nastavte si parametre podla potreby, hlavne "Send Exchange" a parametre operatora
